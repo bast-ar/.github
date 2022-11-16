@@ -1,5 +1,6 @@
 # Vínculos comunes:
 
+  * Recuerden avisar 
   * [Tablero de desarrollo](https://github.com/orgs/bast-ar/projects/1/views/1)
   * [Requerimientos](https://github.com/bast-ar/requerimientos/issues)
   
